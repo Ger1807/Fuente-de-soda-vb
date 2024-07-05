@@ -1,0 +1,17 @@
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\germo\OneDrive\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources

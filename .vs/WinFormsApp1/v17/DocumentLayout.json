@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\germo\\OneDrive\\Desktop\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F87C898-45D7-47E9-A541-B42146D6E010}|WinFormsApp1.vbproj|c:\\users\\germo\\onedrive\\desktop\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5F87C898-45D7-47E9-A541-B42146D6E010}|WinFormsApp1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F87C898-45D7-47E9-A541-B42146D6E010}|WinFormsApp1.vbproj|c:\\users\\germo\\onedrive\\desktop\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5F87C898-45D7-47E9-A541-B42146D6E010}|WinFormsApp1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F87C898-45D7-47E9-A541-B42146D6E010}|WinFormsApp1.vbproj|c:\\users\\germo\\onedrive\\desktop\\winformsapp1\\punto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5F87C898-45D7-47E9-A541-B42146D6E010}|WinFormsApp1.vbproj|solutionrelative:punto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\germo\\OneDrive\\Desktop\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\germo\\OneDrive\\Desktop\\WinFormsApp1\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T01:50:04.488Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\germo\\OneDrive\\Desktop\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\germo\\OneDrive\\Desktop\\WinFormsApp1\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAUAAAA5AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T02:59:04.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Punto.vb",
+              "DocumentMoniker": "C:\\Users\\germo\\OneDrive\\Desktop\\WinFormsApp1\\Punto.vb",
+              "RelativeDocumentMoniker": "Punto.vb",
+              "ToolTip": "C:\\Users\\germo\\OneDrive\\Desktop\\WinFormsApp1\\Punto.vb",
+              "RelativeToolTip": "Punto.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-05T01:50:48.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
